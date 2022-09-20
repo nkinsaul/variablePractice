@@ -4,3 +4,6 @@ var favBand = "Talking Heads"
 var age = 32
 var bandMembers = 3
 var luckyNum = 7
+var sunny = true
+var finished = false
+var stoked = true
