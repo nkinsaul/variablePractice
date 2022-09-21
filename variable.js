@@ -8,10 +8,10 @@ var sunny = true
 var finished = false
 var stoked = true
 
-var greeting = "Goodbye"
-var favFood = "more tacos"
-var favBand = "The Beatles are pretty good too"
+greeting = "Goodbye"
+favFood = "more tacos"
+favBand = "The Beatles are pretty good too"
 
-console.log (greeting);
-console.log (favFood);
-console.log (favBand);
+console.log(greeting);
+console.log(favFood);
+console.log(favBand);
